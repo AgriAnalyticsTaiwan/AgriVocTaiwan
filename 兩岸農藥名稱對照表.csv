@@ -1,0 +1,637 @@
+No.,普通名稱TW,普通名稱CN,英文普通名
+1,二、四－地,"2,4-滴","2,4-d"
+2,二、四－地胺鹽,"2,4-滴","2,4-d(amine)"
+3,二、四地異丙胺鹽,"2,4-滴","2,4-d(ipa)"
+4,二、四－地鈉鹽,"2,4-滴","2,4-d(sodium)"
+5,果美生長素,调果酸,3-cpa
+6,番茄生長素,氯苯氧以酸,4-cpa
+7,阿巴汀,阿维菌素,Abamectin
+8,毆殺松,乙酰甲胺磷,Acephate
+9,亞醌蟎,灭螨醌,Acequinocyl
+10,亞滅培,啶虫脒,Acetamiprid
+11,亞喜芬,三氟草醚,Acifluorfen
+12,莫克草,灭藻醌,Acn
+13,阿納寧,氟丙菊酯,Acrinathrin
+14,拉草,甲草胺,Alachlor
+15,亞烈寧,烯丙菊酯,Allethrin
+16,亞汰草,禾草灭,Alloxydim-sodium
+17,亞滅寧,顺式氯氰菊酯,Alpha-cypermethrin
+18,草殺淨,莠灭净,Ametryn
+19,安美加,灭害威,Aminocarb
+20,艾維激素,艾维激素,Aminoethoxyvinylglycine
+21,三亞蟎,双甲脒,Amitraz
+22,亞速爛,磺草灵,Asulam
+23,得速爛,磺草灵+茅草枯,Asulam + dalapon
+24,草脫淨,莠去津,Atrazine
+25,莫多草淨,莠去津+异丙甲草胺,Atrazine + metolachlor
+26,印楝素,印楝素,Azadirachtin
+27,草芬定,唑啶草酮,Azafenidin
+28,谷速松,保棉磷,Azinphos-methyl
+29,亞托敏,腈嘧菌酯,Azoxystrobin
+30,亞托環克座,腈嘧菌酯+环丙唑醇,Azoxystrobin + cyproconazole
+31,亞托待克利,腈嘧菌酯+苯醚甲环唑,Azoxystrobin + difenoconazole
+32,枯草桿菌,,Bacillus subtilis
+33,蘇力菌,苏云金杆菌,Bacillus thuringiensis
+34,本達樂,苯霜灵,Benalaxyl
+35,免敵克,恶虫威,Bendiocarb
+36,倍尼芬,乙丁氟灵,Benfluralin
+37,免扶克,丙硫克百威,Benfuracarb
+38,免扶賽洛寧,丙硫克百威+氯氟氰菊酯,Benfuracarb + cyhalothrin
+39,免賴得,苯菌灵,Benomyl
+40,硫免賴得,苯菌灵+,Benomyl + sulfur
+41,免賴地,苯菌灵+福双美,Benomyl + thiram
+42,免速克草,苄嘧磺隆+二氯喹啉酸,bensulfuron methyl+Quinclorac
+43,免速隆,苄嘧磺隆,Bensulfuron-methyl
+44,稻得免速隆,苄嘧磺隆+禾草敌,Bensulfuron-methyl + molinate
+45,免速普拉草,苄嘧磺隆+丙草胺,Bensulfuron-methyl + pretilachlor
+46,免速達,杀虫磺,Bensultap
+47,本達隆,灭草松,Bentazon
+48,滅達殺,灭草松+○,Bentazon + benthiocarb
+49,本達快克草,苯达松+二氯喹啉酸,Bentazon + quinclorac
+50,本達亞喜芬,苯达松+三氟羧草醚,Bentazone + acifluorfen
+51,殺克丹,,Benthiocarb + fluothiuron
+52,貝他-賽扶寧,高效-氟氯氰菊酯,Beta-cyfluthrin
+53,貝賽益達胺,高效氟氯氰菊酯+吡虫啉,Beta-cyfluthrin + imidacloprid
+54,畢拉草,,Bialaphos
+55,必芬諾,甲羧除草醚,Bifenox
+56,丁拉芬諾,甲羧除草醚+丁草胺,Bifenox + butachlor
+57,必芬普拉草,甲羧除草醚+丙草胺,Bifenox + pretilachlor
+58,畢芬寧,联苯菊酯,Bifenthrin
+59,比多農,联苯三唑醇,Bitertanol
+60,保米黴素,灭瘟素,Blasticidin-s
+61,保米賜圃,灭瘟素+稻瘟灵,Blasticidin-s + isoprothiolane
+62,保米熱斯,灭瘟素+四氯苯酞,Blasticidin-s + phthalide
+63,波爾多,波尔多,bordeaux
+64,白克列,啶酰菌胺,Boscalid
+65,白列克收欣,啶酰菌胺+苯氧菌酯,Boscalid + kresoxim-methyl
+66,加護丁滅蝨,#NAME?,Bpmc + propaphos
+67,繁米蝨,#ERROR!,Bpmc + vamidothion + mipc
+68,可滅鼠,溴鼠灵,Brodifacoum
+69,撲滅鼠,溴敌鼠,Bromadiolone
+70,新殺蟎,溴螨酯,Bromopropylate
+71,新殺福化利,溴螨酯+氟胺氰菊酯,Bromopropylate + tau-fluvalinate
+72,溴克座,糠菌唑,Bromuconazole
+73,必克蝨,合杀草,Bufencarb
+74,布瑞莫,乙嘧酚磺酸酯,Bupirimate
+75,布芬淨,噻嗪酮,Buprofezin
+76,布芬三亞蟎,噻嗪酮+双甲脒,Buprofezin + amitraz
+77,布芬丁滅蝨,噻嗪酮+○,Buprofezin + bpmc
+78,布芬大利松,噻嗪酮+二嗪磷,Buprofezin + diazinon
+79,布芬益化利,噻嗪酮+Es-生物丙稀菊酯,Buprofezin + esfenvalerate
+80,布芬滅蝨,噻嗪酮+,Buprofezin + mipc
+81,布芬治蝨,噻嗪酮+○,Buprofezin + mtmc
+82,布得芬諾,噻嗪酮+虫酰肼,Buprofezin + tebufenozide
+83,丁基拉草,丁草胺,Butachlor
+84,丁拉免速隆,丁草胺+苄嘧磺隆,Butachlor + bensulfuron-methyl
+85,丁拉甲護谷,丁草胺+,Butachlor + chlomethoxynil
+86,丁拉克普草,丁草胺+氯甲酰草胺,Butachlor + clomeprop
+87,丁拉依速隆,丁草胺+唑吡嘧磺隆,Butachlor + imazosulfuron
+88,丁拉百速隆,丁草胺+吡嘧磺隆,Butachlor + pyrazosulfuron-ethyl
+89,丁拉普芬草,丁草胺+苄草唑,Butachlor + pyrazoxyfen
+90,佈嘉信,丁酮威,Butocarboxim
+91,比達寧,仲丁灵,Butralin
+92,拔敵草,丁草敌,Butylate
+93,碳酸鈣,○,Calcium carbonate
+94,,,Calcium polysulfide
+95,蓋普丹,克菌丹,Captan
+96,加保利,甲萘威,Carbaryl
+97,加丁滅蝨,甲萘威+○+○,Carbaryl + mipc + bpmc
+98,加馬治蝨,甲萘威+○+马拉硫磷,Carbaryl + mtmc + malathion
+99,加保福化利,甲萘威+氟胺腈菊酯,Carbaryl + tau-fluvalinate
+100,貝芬替,多菌灵,Carbendazim
+101,貝芬待克利,多菌灵+苯醚甲环唑,Carbendazim + difenoconazole
+102,貝芬硫醌,多菌灵+二氰蒽醌,Carbendazim + dithianon
+103,貝芬菲克利,多菌灵+己唑醇,Carbendazim + hexaconazole
+104,貝芬依滅列,多菌灵+抑霉唑,Carbendazim + imazalil
+105,貝芬同,多菌灵+异菌脲,Carbendazim + iprodione
+106,貝芬錳,多菌灵+代森锰,Carbendazim + maneb
+107,貝芬普寧,多菌灵+灭锈胺,Carbendazim + mepronil
+108,貝芬得,多菌灵+代森联,Carbendazim + metiram
+109,貝芬撲克拉,多菌灵+咪鲜胺,Carbendazim + prochloraz
+110,貝芬四克利,多菌灵+四氯醚唑,Carbendazim + tetraconazole
+111,貝芬寧,多菌灵+嗪氨灵,Carbendazim + triforine
+112,加保扶,百克威,Carbofuran
+113,芬保扶,克百威+三硫磷,Carbofuran + carbophenothion
+114,益保扶,克百威+亚胺硫磷,Carbofuran + phosmet
+115,丁基加保扶,丁硫克百威,Carbosulfan
+116,乙基克繁草,唑酮草酯,Carfentrazone-ethyl
+117,加普胺,环丙酰菌胺,Carpropamid
+118,培丹,杀螟丹,Cartap
+119,滅蝨丹,杀螟丹+○,Cartap + mipc
+120,治蝨丹,杀螟丹+○,Cartap + mtmc
+121,蟎離丹,灭螨猛,Chinomethionat
+122,剋安勃,,Chlorantraniliprole
+123,克凡派,溴虫腈,Chlorfenapyr
+124,克福隆,氟啶脲,Chlorfluazuron
+125,可伐鼠,氯鼠酮,Chlorophacinone
+126,四氯異苯腈,百菌清,Chlorothalonil
+127,四氯賽得,百菌清+三乙膦酸铝,Chlorothalonil + forsetyl al
+128,陶斯松,毒死蜱,Chlorpyrifos
+129,陶毆松,毒死蜱+乙酰甲胺磷,Chlorpyrifos + acephate
+130,陶斯寧,毒死蜱+氯氰菊酯,Chlorpyrifos + cypermethrin
+131,陶滅蝨,毒死蜱+,Chlorpyrifos + mipc
+132,可芬諾,环虫酰肼,Chromafenozide
+133,西速隆,醚磺隆,Cinosulfuron
+134,松香酯銅,,Citcop
+135,剋草同,烯草酮,Clethodim
+136,克芬蟎,四螨嗪,Clofentezine
+137,佈賜芬蟎,四螨嗪+苯丁锡,Clofentezine + fenbutatin oxide
+138,可滅蹤,异恶草松,Clomazone
+139,克普草,氯甲酰草胺,Clomeprop
+140,畢克草,二氯吡嘧酸,Clopyralid
+141,可尼丁,氯代噻唑,Clothianidin
+142,必滅草,,Cnp + mpp
+143,乙醇胺銅,,Copper chelate
+144,鹼性氯氧化銅,碱性氢氧化铜,Copper oxychloride
+145,銅本達樂,碱性氢氧化铜+苯霜灵,Copper oxychloride + benalaxyl
+146,銅滅達樂,碱性氢氧化铜+甲霜灵,Copper oxychloride + metalaxyl
+147,銅右滅達樂,碱性氢氧化铜+精甲霜灵,Copper oxychloride + metalaxyl-m
+148,硫酸銅,硫酸铜,Copper sulfate
+149,無水硫酸銅,硫酸铜,Copper sulfate
+150,蝨必殺,害扑威,Cpmc
+151,氫氧化銅,,Cupric hydroxide
+152,氧化亞銅,,Cuprous oxide
+153,氰滿素,氰胺,Cyanamide
+154,氰乃松,杀螟腈,Cyanophos
+155,賽座滅,氰霜唑,Cyazofamid
+156,環磺隆,环丙嘧磺隆,Cyclosulfamuron
+157,環殺草,噻草酮,Cycloxydim
+158,賽芬蟎,○,Cyflumetofen
+159,賽扶寧,氟氯氰菊酯,Cyfluthrin
+160,賽扶益達胺,氟氯氰菊酯+吡虫啉,Cyfluthrin + imidacloprid
+161,丁基賽伏草,氰氟草酯,Cyhalofop-butyl
+162,克絕,霜脲氰,Cymoxanil
+163,克絕波爾多,霜脲氰+波尔多,Cymoxanil + bordeaux
+164,鋅錳克絕,霜脲氰+代森锰锌,Cymoxanil + mancozeb
+165,賽滅寧,氯氰菊酯,Cypermethrin
+166,環克座,环菌唑,Cyproconazole
+167,賽普洛,嘧菌环胺,Cyprodinil
+168,賽普待克利,嘧菌环胺+苯醚甲环唑,Cyprodinil + difenoconazole
+169,賽普護汰寧,嘧菌环胺+咯菌腈,Cyprodinil + fludioxonil
+170,賽滅淨,灭蝇胺,Cyromazine
+171,細胞分裂素,,Cytokinins
+172,汰草龍,杀草隆,Daimuron
+173,丁拉汰草,杀草隆+丁草胺,Daimuron + butachlor
+174,得拉本,茅草枯,Dalapon
+175,鎂得拉本,鎂茅草枯,"Dalapon-na, mg"
+176,邁隆,棉隆,Dazomet
+177,溴氯腈,,Dbpn + tcne
+178,滅線蟲,二氯异丙醚,Dcip
+179,大克草,氯酞酸甲酯,Dcpa
+180,克草,除草定,Bromacil
+181,二氯松,敌敌威,Ddvp
+182,第滅寧,溴氰菊酯,Deltamethrin
+183,布芬第滅寧,溴氰菊酯+噻嗪酮,Deltamethrin + buprofezin
+184,滅賜松,甲基内吸磷,Demeton-s-methyl
+185,克氯得,乙菌利,Di)chlozolinate
+186,汰芬隆,丁醚脲,Diafenthiuron
+187,汰芬諾克,丁醚脲+苯氯威,Diafenthiuron + fenoxycarb
+188,大利松,二嗪磷,Diazinon
+189,二氯達龍,#NAME?,Dichlobenil + diuron
+190,益發靈,抑菌灵,Dichlofluanid
+191,達滅淨,达灭净,Diclomezine
+192,大克爛,氯硝胺,Dicloran
+193,大克蟎,三氯杀螨醇,Dicofol
+194,雙特松,百治磷,Dicrotophos
+195,雙特氯松,百治磷+敌百虫,Dicrotophos + trichlorfon
+196,待克利,苯醚甲环唑,Difenoconazole
+197,待普克利,苯醚甲环唑+丙环唑,Difenoconazole + propiconazole
+198,達滅鼠,噻鼠灵,Difenthialone
+199,二福隆,除虫脲,Diflubenzuron
+200,福隆納乃得,除虫脲+灭多威,Diflubenzuron + methomyl
+201,二氟林,,Diflumetorim
+202,汰草滅,二甲吩草胺,Dimethenamid
+203,穫萎得,噻节因,Dimethipin
+204,大滅松,乐果,Dimethoate
+205,達滅芬,烯酰吗啉,Dimethomorph
+206,達克利,烯唑醇,Diniconazole-m
+207,撻乃安,氨氟灵,Dinitramine
+208,達特南,呋虫胺,Dinotefuran
+209,得伐鼠,敌鼠,Diphacinone
+210,大芬滅,双苯酰草胺,Diphenamid
+211,大芬淨,草乃敌+西玛津,Diphenamid + simazine
+212,二硫松,乙拌磷,Disulfoton
+213,普二硫松,乙拌磷+灭线磷,Disulfoton + ethoprop
+214,腈硫醌,二氰蒽醌,Dithianon
+215,腈硫醌銅,二氰蒽醌+碱性氢氧化铜,Dithianon + copper oxychloride
+216,腈硫克絕,二氰蒽醌+霜脲氰,Dithianon + cymoxanil
+217,汰硫草,氟硫草定,Dithiopyr
+218,汰硫免速隆,氟硫草定+苄嘧磺隆,Dithiopyr + bensulfuron methyl
+219,達有龍,敌草隆,Diuron
+220,多寧,多果定,Dodine
+221,護粒松,敌瘟磷,Edifenphos
+222,護粒丹,敌瘟磷+四氯苯酞,Edifenphos + fthalide
+223,護粒三賽唑,敌瘟磷+三环唑,Edifenphos + tricyclazole
+224,因滅汀,甲胺基阿维菌素,Emamectin benzoate
+225,安殺番,硫丹,Endosulfan
+226,依普座,氟环唑,Epoxiconazole
+227,益化利,Es-生物丙稀菊酯,Esfenvalerate
+228,益收生長素,,Ethephon
+229,愛殺松,乙硫磷,Ethion
+230,依瑞莫,乙嘧酚,Ethirimol
+231,依瑞菲克利,乙嘧酚+己唑醇,Ethirimol + hexaconazole
+232,普伏松,灭线灵,Ethoprop
+233,普伏瑞松,灭线磷+甲拌磷,Ethoprophos + phorate
+234,亞速隆,乙氧嘧磺隆,Ethoxysulfuron
+235,依芬寧,醚菊酯,Etofenprox
+236,依殺蟎,乙螨唑,Etoxazole
+237,依得利,土菌灵,Etridiazole
+238,凡殺同,恶唑菌酮,Famoxadone
+239,凡殺克絕,恶唑菌酮+霜脲氰,Famoxadone + cymoxanil
+240,凡殺護矽得,恶唑菌酮+氟硅唑,Famoxadone + flusilazole
+241,治芽素 乙,,Fatty alcohols
+242,芬滅松,苯线磷,Fenamiphos
+243,芬瑞莫,氯苯嘧啶醇,Fenarimol
+244,芬殺蟎,喹螨醚,Fenazaquin
+245,芬克座,腈苯唑,Fenbuconazole
+246,芬佈賜,,Fenbutatin-oxide
+247,芬佈克蟎,#NAME?,Fenbutatin-oxide + dicofol
+248,撲滅松,杀螟硫磷,Fenitrothion
+249,撲馬松,杀螟硫磷+马拉硫磷,Fenitrothion + malathion
+250,丁基滅必蝨,仲丁威,Fenobucarb
+251,雙滅必蝨,仲丁威+4-仲丁威,Fenobucarb+tert-fenobucarb
+252,芬硫克,苯硫威,Fenothiocarb
+253,芬殺草,恶唑禾草灵,Fenoxaprop-ethyl
+254,芬諾克,苯氯威,Fenoxycarb
+255,撲滅芬普寧,甲氰菊酯+杀螟硫磷,Fenpopathrin + fenitrothion
+256,芬普寧,甲氰菊酯,Fenpropathrin
+257,達馬芬普寧,甲氰菊酯+甲胺磷,Fenpropathrin + methamidophos
+258,芬普福,丁苯吗啉,Fenpropimorph
+259,芬普蟎,唑螨酯,Fenpyroximate
+260,芬普毆蟎多,唑螨酯+炔螨特,Fenpyroximate + propargite
+261,芬殺松,倍硫磷,Fenthion
+262,芬化利,氰戊菊酯,Fenvalerate
+263,撲芬松,氰戊菊酯+杀螟硫磷,Fenvalerate + fenitrothion
+264,富爾邦,福美铁,Ferbam
+265,富米綜,嘧菌腙,Ferimzone
+266,富米熱斯,嘧菌腙+四氯苯酞,Ferimzone + phthalide
+267,芬普尼,氟虫氰,Fipronil
+268,伏速隆,吡嘧磺隆,Flazasulfuron
+269,伏滅鼠,氟鼠灵,Flocoumafen
+270,氟尼胺,,Flonicamid
+271,伏寄普,精吡氟禾草灵,Fluazifop-p-butyl
+272,扶吉胺,氟啶脲,Fluazinam
+273,護賽寧,氟氰戊菊酯,Flucythrinate
+274,護汰寧,喀菌清,Fludioxonil
+275,氟芬隆,氟虫脲,Flufenoxuron
+276,氟比來,,Fluopicolide
+277,氟比拔克,#NAME?,Fluopicolide + propamocarb hydrochloride
+278,氟氯比,氯氟吡氧乙酸,Fluroxypyr-meptyl
+279,護矽得,氟哇唑,Flusilazole
+280,氟硫滅,,Flusulfamide
+281,福多寧,氟酰胺,Flutolanil
+282,四氯福多寧,氟酰胺+百菌清,Flutolanil + chlorothalonil
+283,護汰芬,粉唑醇,Flutriafol
+284,福芬素,氯吡脲,Forchlorfenuron
+285,覆滅蟎,伐虫脒,Formetanate
+286,福賽得,三乙膦酸铝,Fosetyl-al
+287,福賽快得寧,三乙膦酸铝+喹啉铜,Fosetyl-al + oxine-copper
+288,福賽絕,噻唑磷,Fosthiazate
+289,氟丙酸,,Frenock
+290,二氧化矽,,Fumed silica
+291,福拉比,呋吡菌胺,Furametpyr
+292,伽瑪賽洛寧,Gamma-氯氟氰菊酯,Gamma-cyhalothrin
+293,勃激素A3,赤霉酸,Gibberellic acid
+294,勃寧激素,赤霉酸+,Gibberellin a4 with a7 + 6-benzylaminopu
+295,固殺草,草铵磷,Glufosinate-ammonium
+296,嘉磷塞,草甘磷,Glyphosate
+297,嘉磷二四地,"草甘膦-+2,4,滴",Glyphosate + 2.4-d
+298,嘉磷氟氯比,草甘膦-+氯氟吡氧乙酸,Glyphosate + fluroxypyr
+299,嘉磷塞 (胺鹽 ),草甘膦-,Glyphosate ammonium
+300,嘉磷塞異丙胺鹽,草甘膦-,Glyphosate ipa
+301,嘉磷派芬草,草甘膦+霸草灵,Glyphosate ipa + pyraflufen-ethyl
+302,嘉磷塞(三甲基硫鹽),草甘膦-,Glyphosate-trimesium
+303,甘磷塞,,Glyphosine
+304,合芬寧,苄螨醚,Halfenprox
+305,合速隆,氯吡嘧磺隆,Halosulfuron-methyl
+306,甲基合氯氟,甲基吡氟氯禾灵,Haloxyfop-methyl
+307,飛達松,庚烯磷,Heptenophos
+308,菲克利,己唑醇,Hexaconazole
+309,菲克利腐絕,己唑醇+噻菌灵,Hexaconazole + thiabendazole
+310,六伏隆,氟玲脲,Hexaflumuron
+311,菲殺淨,环嗪酮,Hexazinone
+312,達有淨,环嗪酮+敌草隆,Hexazinone + diuron
+313,合賽多,噻螨酮,Hexythiazox
+314,合賽芬普寧,噻螨酮+甲氰菊酯,Hexythiazox + fenpropathrin
+315,殺紋滅達樂,#NAME?,Hymexazol + metalaxyl
+316,吲哚丁酸,吲哚丁酸,Iba
+317,樂馬松,#NAME?,Ibp + malathion
+318,丙基喜樂砷,,Ibp + neo asozin
+319,依滅列,抑霉唑,Imazalil
+320,依滅草,灭草烟,Imazapyr
+321,依速隆,唑吡嘧磺隆,Imazosulfuron
+322,易胺座,亚胺唑,Imibenconazole
+323,益達胺,吡虫啉,Imidacloprid
+324,益達培丹,吡虫啉+杀螟丹,Imidacloprid + cartap
+325,克熱淨,双胍辛胺,Iminoctadine triacetate
+326,克熱賜圃,双胍辛胺+稻瘟灵,Iminoctadine triacetate + isoprothiolane
+327,克熱淨(烷苯磺酸鹽),双胍辛胺,Iminoctadine tris(albesilate)
+328,依納素,抗倒胺,Inabenfide
+329,因得克,噁二唑虫,Indoxacarb
+330,丙基喜樂松,异稻瘟净,Iprobenfos
+331,喜樂克拉,异稻瘟净+咪鲜胺,Iprobenfos + prochloraz
+332,依普同,异菌脲,Iprodione
+333,依殺松,氯唑磷,Isazofos
+334,亞芬松,异柳磷,Isofenphos
+335,滅必蝨,异丙威,Isoprocarb
+336,亞賜圃,稻瘟灵,Isoprothiolane
+337,愛速隆,异恶隆,isouron
+338,加福松,恶唑磷,Isoxathion
+339,嘉賜黴素,春雷霉素,Kasugamycin
+340,嘉賜貝芬,春雷霉素+多菌灵,Kasugamycin + carbendazim
+341,嘉賜銅,春雷霉素+碱性氢氧化铜,Kasugamycin + copper oxychloride
+342,嘉賜蒙,春雷霉素+,Kasugamycin + mon san
+343,嘉賜快得寧,春雷霉素+喹啉铜,Kasugamycin + oxine-copper
+344,嘉賜米松,春雷霉素+氯瘟磷,Kasugamycin + phosdiphen
+345,嘉賜熱,春雷霉素+四氯苯酞,Kasugamycin + phthalide
+346,嘉賜三賽唑,春雷霉素+三环唑,Kasugamycin + tricyclazole
+347,加撲草,,Kayaethyl
+348,思得寧,,Kinubon
+349,喜樂紋,,Kitazin + neo asozin
+350,克收欣,苯氧菌酯,Kresoxim-methyl
+351,賽洛寧,氯氟氰菊酯,Lambda-cyhalothrin
+352,賽洛比加普,高效氯氟氰菊酯+抗蚜威,Lambda-cyhalothrin + pirimicarb
+353,賽速洛寧,高效氯氟氰菊酯+噻虫嗪,Lambda-cyhalothrin + thiamethoxam
+354,益洛寧,氯氟氰菊酯+亚胺硫磷,Lamda-cyhalothrin + phosmet
+355,石灰硫黃,石硫合剂,Lime & sulfur
+356,理有龍,利谷隆,Linuron
+357,祿芬隆,虱螨脲,Lufenuron
+358,磷化鎂,磷化鎂,Magnesium phosphide
+359,馬拉松,马拉硫磷,Malathion
+360,馬拉克蝨,马拉硫磷+,Malathion + xmc
+361,抑芽素 膽鹼鹽,抑芽丹,Maleic hydrazide
+362,抑芽素,抑芽丹,"Maleic hydrazide,mh"
+363,抑芽素 鉀鹽,抑芽丹,Maleic-hydrazide
+364,鋅錳乃浦,代森锰锌,Mancozeb
+365,鋅錳本達樂,代森锰锌+苯霜灵,Mancozeb + benalaxyl
+366,鋅錳右本達樂,代森锰锌+苯霜灵-M,Mancozeb + benalaxyl-m
+367,鋅錳賽得,代森锰锌+三乙膦酸铝,Mancozeb + fosetyl-al
+368,鋅錳滅達樂,代森锰锌+甲霜灵,Mancozeb + metalaxyl
+369,鋅錳右滅達樂,代森锰锌+精甲霜灵,Mancozeb + metalaxyl-m
+370,鋅錳邁克尼,代森锰锌+腈菌唑,Mancozeb + myclobutanil
+371,鋅錳毆殺斯,代森锰锌+恶霜灵,Mancozeb + oxadixyl
+372,鋅錳比芬諾,代森锰锌+啶斑肟,Mancozeb + pyrifenox
+373,鋅錳座賽胺,代森锰锌+,Mancozeb + zoxamide
+374,錳乃浦,代森锰,Maneb
+375,銅錳乃浦,代森锰+○,Maneb + copper sulphate
+376,免拔草,,"Mcpa + 2, 3, 6-tba"
+377,滅加松,灭蚜磷,Mecarbam
+378,滅芬草,苯噻酰草胺,Mefenacet
+379,滅芬免速隆,#NAME?,Mefenacet + bensulfuronmethyl
+380,滅派林,嘧菌胺,Mepanipyrim
+381,滅普寧,灭锈胺,Mepronil
+382,美氟綜,,Metaflumizone
+383,滅達樂,甲霜灵,Metalaxyl
+384,右滅達樂,精甲霜灵,Metalaxyl-m
+385,聚乙醛,四聚乙醛,Metaldehyde
+386,滅草胺,吡唑草胺,Metazachlor
+387,滅特座,叶菌唑,Metconazole
+388,達馬松,甲胺磷,Methamidophos
+389,斯美地,威百田,Metham-sodium
+390,滅速克,磺菌威,Methasulfocarb
+391,滅大松,杀扑磷,Methidathion
+392,滅賜克,甲硫威,Methiocarb
+393,納乃得,灭多威,Methomyl
+394,納得亞滅寧,灭多威+順式氯氰菊酯,Methomyl + alpha-cypermethrin
+395,納得護賽寧,灭多威+氟氰戊菊酯,Methomyl + flucythrinate
+396,開抑草,○+地散磷,Methoxy phenone + bensulide
+397,滅芬諾,甲氧苯酰肼,Methoxyfenozide
+398,含毒甲基丁香油,,Methyl eugenol-naled
+399,甲基砷酸鈣,,Methylarsonic acid
+400,甲基巴拉松,甲基对硫磷,Methyl-parathion
+401,免得爛,代森联,Metiram
+402,免得克絕,代森联+霜脲氰,Metiram + cymoxanil
+403,撲奪草,溴谷隆,Metobromuron
+404,撲多草,溴谷隆+异丙甲草胺,Metobromuron + metolachlor
+405,莫多草,异丙甲草胺,Metolachlor
+406,治滅蝨,速灭威,Metolcarb
+407,滅芬農,,Metrafenone
+408,滅必淨,嗪草酮,Metribuzin
+409,美文松,速灭磷,Mevinphos
+410,密滅汀,密灭汀,Milbemectin
+411,雙必蝨,,Mipc + bpmc
+412,普滅蝨,#NAME?,Mipc + ethoprophos
+413,稻得壯,禾草敌,Molinate
+414,亞素靈,久效磷,Monocrotophos
+415,摩朗得(酒石酸鹽),○,Morantel tartrate
+416,甲基砷酸鈉,,Msma
+417,治滅寧,○+胺菊酯,Mtmc + tetramethrin
+418,邁克尼,腈菌唑,Myclobutanil
+419,萘乙酸鈉,萘乙酸鈉,Naa-sodium
+420,移植生長素,,Nad
+421,乃力松,二溴磷,Naled
+422,丁拉萘普,萘丙胺+丁草胺,Naproanilide + butachlor
+423,滅落脫,敌草胺,Napropamide
+424,鈉得爛,萘草胺,Naptalam
+425,鐵甲砷酸銨,,Neo asozin
+426,耐克螺,,Niclosamide
+427,禾爾邦砷,,Norea + msma
+428,諾伐隆,双苯氟脲,Novaluron
+429,尼瑞莫,氟苯嘧啶醇,Nuarimol
+430,歐滅松,氧乐果,Omethoate
+431,樂滅草,恶草酮,Oxadiazon
+432,丁拉樂滅草,恶草灵+丁草胺,Oxadiazon + butachlor
+433,樂滅壯,恶草酮+禾草敌,Oxadiazon + molinate
+434,毆殺斯,恶霜磷,Oxadixyl
+435,毆殺滅,杀线威,Oxamyl
+436,快得寧,喹啉铜,Oxine-copper
+437,硫酸快得寧,喹啉铜+,Oxine-copper + copper sulphate
+438,銅快得寧,喹啉铜+,Oxine-copper + cupric hydroxide
+439,快得克絕,喹啉铜+霜脲氰,Oxine-copper + cymoxanil
+440,快得依普同,喹啉铜+水胺硫磷,Oxine-copper + iprodione
+441,快得滅達樂,喹啉铜+甲霜灵,Oxine-copper + metalaxyl
+442,歐索林酸,喹菌酮,Oxolinic acid
+443,嘉保信,氧化萎锈灵,Oxycarboxin
+444,滅多松,亚砜磷,Oxydemeton methyl
+445,復祿芬,乙氧氟草醚,Oxyfluorfen
+446,丁拉復祿芬,乙氧氟草醚+丁草胺,Oxyfluorfen + butachlor
+447,巴克素,多效唑,Paclobutrazol
+448,巴拉刈,百草枯,Paraquat
+449,巴達刈,百草枯+敌草隆,Paraquat + diuron
+450,巴拉刈二氯鹽,百草枯,Paraquat dichloride
+451,披扶座,稻瘟酯,Pefurazoate
+452,平克座,戊菌唑,Penconazole
+453,賓克隆,戊菌隆,Pencycuron
+454,賓得克利,戊菌隆+戊唑醇,Pencycuron + tebuconazole
+455,施得圃,硝草胺,Pendimethalin
+456,施圃草脫淨,硝草胺+莠去津,Pendimethalin + atrazine
+457,平速爛,嘧啶并三唑类磺胺,Penoxsulam
+458,百滅寧,氯菊酯,Permethrin
+459,礦物油,,Petroleum oil
+460,脫禾草,,Phenothiol
+461,酚丁滅蝨 １,苯醚菊酯+,Phenothrin + bpmc
+462,撲滅芬,苯醚菊酯+杀螟硫磷,Phenothrin + fenitrothion
+463,賽達松,稻丰散,Phenthoate
+464,賽滅松,稻丰散+乐果,Phenthoate+dimethoate
+465,福瑞松,甲拌磷,Phorate
+466,裕必松,伏杀硫磷,Phosalone
+467,裕馬松,伏杀硫磷+甲胺磷,Phosalone + methamidophos
+468,益滅松,亚胺硫磷,Phosmet
+469,益芬松,亚胺硫磷+三硫磷,Phosmet + carbophenothion
+470,益滅賽寧,氯氰菊酯,Phosmet + cypermethrin
+471,益丁滅蝨,亚胺硫磷+仲丁威,Phosmet + fenobucarb
+472,益滅蝨,亚胺硫磷+,Phosmet + mipc
+473,福賜米松,磷胺,Phosphamidon
+474,福文松,磷胺+速灭磷,Phosphamidon + mevinphos
+475,福賜滅蝨,磷胺+,Phosphamidon + mipc
+476,好達勝,磷化氢,Phosphine
+477,巴賽松,辛硫磷,Phoxim
+478,熱必斯,四氯苯酞,Phthalide
+479,除蟲菊精協力劑,,Piperonyl
+480,愛落殺,戊草净+异戊乙净,Piperophos + dimethametryn
+481,比加普,抗蚜威,Pirimicarb
+482,亞特松,甲基嘧啶磷,Pirmiphos-methyl
+483,保粒快得寧,#NAME?,Polyoxin b + oxine-copper
+484,保粒黴素 丁,,"Polyoxin d,Polyoxorim"
+485,保粒黴素 乙,多氧霉素,Polyoxins
+486,保粒黴素 甲,多氧霉素,Polyoxins
+487,保粒黴素,多氧霉素,Polyoxins
+488,保粒保淨,多氧霉素+甲基硫菌灵,Polyoxins + thiophanate-methyl
+489,碳酸氫鉀,,Potassium hydrogencarbonate
+490,普拉草,丙草胺,Pretilachlor
+491,普拉萘普,丙草胺+萘丙胺,Pretilachlor + naproanilide
+492,撲殺熱,烯丙苯噻唑,Probenazole
+493,撲殺培丹,烯丙苯噻唑+杀螟丹,Probenazole + cartap
+494,撲殺賜圃,烯丙苯噻唑+稻瘟灵,Probenazole + isoprothiolane
+495,撲克拉,咪鲜胺,Prochloraz
+496,撲克拉錳,咪鲜胺錳,Prochloraz-manganese
+497,撲滅寧,腐霉利,Procymidone
+498,佈飛松,丙溴磷,Profenofos
+499,佈飛賽滅寧,丙溴磷+氯氰菊酯,Profenofos + cypermethrin
+500,佈飛百滅寧,丙溴磷+氯菊酯,Profenofos + permethrin
+501,茉莉酸丙酯,,Prohydrojasmon
+502,普拔克,霜霉威,Propamocarb hydrochloride
+503,除草靈,敌稗,Propanil
+504,加護松,丙虫磷,Propaphos
+505,加護賽滅寧,氯氰菊酯,Propaphos + cypermethrin
+506,加護滅必蝨,丙虫磷+,Propaphos + mipc
+507,加護雙必蝨,丙虫磷+,Propaphos + mipc + bpmc
+508,加護福化利,丙虫磷+氟胺腈菊酯,Propaphos + tau-fluvalinate
+509,普拔草,恶草酸,Propaquizafop
+510,毆蟎多,炔螨特,Propargite
+511,普拔根,扑灭津,Propazine
+512,普克利,丙环唑,Propiconazole
+513,甲基鋅乃浦,丙森锌,Propineb
+514,甲鋅毆殺斯,丙森锌+恶霜灵,Propineb + oxadixyl
+515,甲鋅保粒素,丙森锌+多氧霉素,Propineb + polyoxin b
+516,甲鋅保淨,丙森锌+甲基硫菌灵,Propineb + thiophanate-methyl
+517,安丹,残杀威,Propoxur
+518,普硫松,丙硫磷,Prothiofos
+519,派滅淨,吡蚜酮,Pymetrozine
+520,白克松,吡唑硫磷,Pyraclofos
+521,百克敏,百克敏,Pyraclostrobin
+522,白列克敏,百克敏+啶酰菌胺,Pyraclostrobin + boscalid
+523,達滅克敏,百克敏+烯酰吗啉,Pyraclostrobin + dimethomorph
+524,腈硫克敏,百克敏+二氰蒽醌,Pyraclostrobin + dithianon
+525,乙基派芬草,霸草灵,Pyraflufen-ethyl
+526,白粉松,吡菌磷,Pyrazophos
+527,百速隆,吡嘧磺隆,Pyrazosulfuron-ethyl
+528,普芬草,苄草唑,Pyrazoxyfen
+529,除蟲菊精,除虫菊酯,Pyrethrins
+530,畢達本,哒螨灵,Pyridaben
+531,必芬松,哒嗪硫磷,Pyridaphenthion
+532,必芬治,哒嗪硫磷+,Pyridaphenthion + mtmc
+533,必汰草,哒草特,Pyridate
+534,必汰草脫淨,哒草特+莠去津,Pyridate + atrazine
+535,比芬諾,啶斑肟,Pyrifenox
+536,派美尼,嘧霉胺,Pyrimethanil
+537,畢汰芬,嘧螨醚,Pyrimidifen
+538,百利普芬,吡丙醚,Pyriproxyfen
+539,百快隆,咯喹酮,Pyroquilon
+540,拜裕松,喹硫磷,Quinalphos
+541,快克草,二氯喹啉酸,Quinclorac
+542,歐硫素,○,Quinoline-sulfate
+543,快諾芬,喹氧灵,Quinoxyfen
+544,快伏草,喹禾灵,Quizalofop-p-ethyl
+545,魚藤精,鱼藤酮,Rotenone
+546,菸甲蟲費洛蒙,,Serricornin
+547,西殺草,烯禾啶,Sethoxydim
+548,矽護芬,氟硅菊酯,Silafluofen
+549,草滅淨,西玛津,Simazine
+550,美賜平,,S-methoprene
+551,左旋莫多草,左异丙甲草胺,S-metolachlor
+552,賜諾殺,艾克敌,Spinosad
+553,賜諾特,乙基多杀菌素,Spinetoram
+554,賜派芬,螺螨酯,Spirodiclofen
+555,純白鏈黴菌素,,STREPTOMYCES CANDIDUS of Y21007-2
+556,鏈黴素,链霉素,Streptomycin
+557,鏈土黴素,链霉素+○,Streptomycin-oxyteracycline
+558,可濕性硫黃,,Sulfur
+559,福化利,氟胺氰菊酯,Tau-fluvalinate
+560,佈生,苯噻硫氰,Tcmtb
+561,得克利,戊唑醇,Tebuconazole
+562,得芬諾,虫酰肼,Tebufenozide
+563,得芬瑞,吡螨胺,Tebufenpyrad
+564,克枯爛,叶枯酞,Tecloftalam
+565,嘉賜克枯爛,叶枯酞+春雷霉素,Tecloftalam + kasugamycin
+566,克枯三賽唑,叶枯酞+三环唑,Tecloftalam + tricyclazole
+567,得福隆,氟苯脲,Teflubenzuron
+568,得福化利,氟苯脲+氟胺腈菊酯,Teflubenzuron + tau-fluvalinate
+569,亞培松,双硫磷,Temephos
+570,得殺草,得杀草,Tepraloxydim
+571,托福松,特丁硫磷,Terbufos
+572,托福毆殺滅,特丁硫磷+杀线威,Terbufos + oxamyl
+573,叔丁基滅必蝨,TERT-仲丁威,Tert-fenobucarb
+574,四克利,四氯醚唑,Tetraconazole
+575,四環黴素,,Tetracycline
+576,治滅寧 １,胺菊酯,Tetramethrin
+577,欣克草,噻吩草胺,Thenylchlor
+578,欣克免速隆,噻吩草胺+苄嘧磺隆,Thenylchlor + bensulfuronmethyl
+579,腐絕,噻菌灵,Thiabendazole
+580,銅合腐絕,噻菌灵+○,Thiabendazole + cupric hydroxide
+581,腐絕快得寧,噻菌灵+喹啉铜,Thiabendazole + oxine-copper
+582,賽果培,噻虫啉,Thiacloprid
+583,賽速安,噻虫嗪,Thiamethoxam
+584,賽氟滅,噻呋酰胺,Thifluzamide
+585,殺丹,禾草丹,Thiobencarb
+586,殺丹免速隆,禾草丹+苄嘧磺隆,Thiobencarb + bensulfuron-methyl
+587,丁拉殺丹,禾草丹+丁草胺,Thiobencarb + butachlor
+588,殺萘丹,杀草丹+萘丙胺,Thiobencarb + naproanilide
+589,佈殺丹,禾草丹+,Thiobencarb + prometryne
+590,硫賜安,杀虫环,Thiocyclam hydrogenoxalate
+591,硫敵克,禾草丹,Thiodicarb
+592,硫敵芬化利,禾草丹+氰戊菊酯,Thiodicarb + fenvalerate
+593,硫伐隆,久效威,Thiofanox
+594,硫滅松,甲基乙拌磷,Thiometon
+595,甲基多保淨,甲基硫菌灵,Thiophanate-methyl
+596,四氯保淨,甲基硫菌灵+百菌清,Thiophanate-methyl + chlorothalonil
+597,快得保淨,甲基硫菌灵+喹啉铜,Thiophanate-methyl + oxine-copper
+598,多保鏈黴素,甲基硫菌灵+链霉素,Thiophanate-methyl + streptomycin
+599,多得淨,甲基硫菌灵+福美双,Thiophanate-methyl + thiram
+600,得恩地,福美双,Thiram
+601,脫克松,甲基立枯磷,Tolclofos-methyl
+602,脫芬瑞,,Tolfenpyrad
+603,甲基益發靈,甲苯氟磺胺,Tolylfluanid
+604,泰滅寧,四溴菊酯,Tralomethrin
+605,三泰芬,三唑醇,Triadimefon
+606,三泰隆,三唑醇,Triadimenol
+607,三落松,三唑磷,Triazophos
+608,三元硫酸銅,,Tribasic copper sulfate
+609,三元銅克絕,#NAME?,Tribasic copper sulfate + cymoxanil
+610,三氯松,敌百虫,Trichlorfon
+611,三氯比,三氯吡氧乙酸,Triclopyr
+612,丁拉氯比,三氯吡氧乙酸+丁草胺,Triclopyr + butachlor
+613,三賽唑,三环唑,Tricyclazole
+614,三得芬,十三吗啉,Tridemorph
+615,三得寧,十三吗啉+嗪氨灵,Tridemorph + triforine
+616,三氟敏,布洛芬,Trifloxystrobin
+617,三氟得克利,布洛芬+戊唑醇,Trifloxystrobin + tebuconazole
+618,賽福座,氟菌唑,Triflumizole
+619,賽福保淨,氟菌唑+甲基硫菌灵,Triflumizole + thiophanate-methyl
+620,三福林,氟乐磷,Trifluralin
+621,三覆爾,氟乐灵+○,Trifluralin + mcpa
+622,賽福寧,嗪氨灵,Triforine
+623,單克素,烯效唑,Uniconazole-p
+624,維利黴素,有效霉素,Validamycin
+625,維利熱必斯,有效霉素+四氯苯酞,Validamycin + phthalide
+626,繁米松,蚜灭磷,Vamidothion
+627,免克寧,乙烯菌核利,Vinclozolin
+628,免得克寧,乙烯菌核利+代森联,Vinclozolin + metiram
+629,殺鼠靈,,Warfarin
+630,甲氧基護谷,甲氧除草醚,X-52
+631,滅克蝨,灭除威,Xmc
+632,滅爾蝨,灭杀威,Xylylcarb
+633,傑他賽滅寧,Zeta-氯氰菊酯,Zeta-cypermethrin
+634,鋅波爾多,锌+波尔多,Zn + BORDEAUX
+635,因汀氟滅,氟苯虫酰胺+甲氨基阿维菌素苯甲酸盐,Flubendiamide+emamectin benzoate
+636,氟大滅,氟虫双酰胺,Flubendiamide
